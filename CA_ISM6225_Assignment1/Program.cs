@@ -38,7 +38,7 @@ namespace Assignment1_S19
              * conceptualize an approach, the last few I had to research heavily. Researching conversions for the
              * binary problems led me to find out that I should review the built in system methods as there were
              * ways to acheive the goal without developing a more convoluted method.
-
+            */
         }
 
         public static void printPrimeNumbers(int x, int y)
